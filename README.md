@@ -25,7 +25,7 @@ This project is based on a high-fidelity **Figma design** and converted into a c
 - Font Awesome Icons
 
 ## 🌐 Live Demo
-👉 **Live Site:** __
+👉 **Live Site:** _https://pallabs09.github.io/CabinetmarkLLC/_
 
 ## 📂 Project Status
 ✔ UI Completed  
