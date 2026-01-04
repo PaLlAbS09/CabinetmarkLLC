@@ -38,3 +38,6 @@ No backend functionality is included.
 
 ## © Copyright
 © 2025 CabinetMark LLC. All rights reserved.
+
+## Author
+Pallab Sarkar
