@@ -129,8 +129,7 @@ nav,
   font-family: var(--font-family);
   margin-right: 56px;
 }
-.nav-links:hover {
-}
+
 .menu {
   display: none;
   color: #fff;
